@@ -1,4 +1,4 @@
-# make favicon by node.js settings
+# make icon(favicon and mobile device app icon) by node.js settings
 
 ## usage
 
